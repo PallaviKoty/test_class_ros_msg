@@ -4,7 +4,7 @@ Testing ros msg as class attribute - bug
 
 Compiling the code : 
 ```
- colcon build --cmake-clean-first --symlink-install --packages-select testing_msgs --cmake-clean-cache
+ colcon build --cmake-clean-first --symlink-install --packages-select testing_msgs
  ```
  
  Running the node :
